@@ -7,7 +7,7 @@ Validation is also available[ZOD]
 Languages/Frameworks
 ->React
 ->Bootstrap
-->Typescript
+->Typescript 
 
 HOW TO RUN[LOCALLY]
 ->install node
